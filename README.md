@@ -2,7 +2,7 @@
 
 Приложение для генерации и сканирования QR-кодов на React + Vite + TypeScript с поддержкой React Router и localStorage.
 
-### Demo - https://eugene-stone.github.io/react-qrcode/
+### Demo - https://eugene-stone.github.io/qr-toolkit/
 
 ## Что реализовано
 
@@ -12,7 +12,7 @@
 - История сканирования QR-кодов
 - Сохранение данных в localStorage
 - Навигация между страницами с React Router
-- Отдельный `base: "/react-qrcode"` для корректной работы на GitHub Pages
+- Отдельный `base: "/qr-toolkit"` для корректной работы на GitHub Pages
 
 ## Стек
 
